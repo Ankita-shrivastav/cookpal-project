@@ -1,0 +1,126 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+      /* border: 3px solid black;  */
+}
+.navbar img{
+    margin-left: 70px;
+}
+.nav2{
+ margin-right:-900px;
+}
+.nav2 li{
+    float: right;
+    list-style-type: none;
+    margin-left:30px;
+}
+.nav3 img{
+    margin-right: 50px;
+}
+.banner{
+    position: relative;
+}
+.banner img{
+ margin-top: 35px;
+ padding-left: 40px;
+ width: 1440px;
+height: 300px;
+}
+.banner-text{
+    position: absolute;
+    top: 0;
+    padding:90px;
+}
+.banner-text h1{
+    color: red;
+    font-size: 20px;
+}
+.banner-text h2{
+    color: white;
+    font-size: 47px;
+    margin-top:-12px;
+}
+.banner-text p{
+    color: white;
+    font-size: 17px;
+    margin-top:-5px;
+}
+
+.search-title h2{
+    padding-left: -120px;
+}
+
+.search-btn input{
+    width: 1450px;
+    background-color: rgb(218, 210, 210);
+    height: 40px;
+    border: none;
+}
+.btn2 img{
+    color: green;
+}
+.color{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+.color-box1{
+    background-color: orange;
+    height: 70px;
+    width: 190px;
+    font-size:15px;
+    margin-left: 35px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+    padding-top:20px;
+}
+.color-box1 p{
+   padding: 10px;
+    color: white;
+}
+.color-box1 img{
+    color: white;
+}
+.color-box2{
+    background-color: #C4D600;
+    height: 70px;
+    width: 190px;
+    font-size:15px;
+    margin-left: 35px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px;
+}
+.color-box2 p{
+   padding: 17px;
+    color: white;
+}
+.color-box2 img{
+    color: white;
+}
+
+.color-box3{
+    background-color: #DC582A;
+    height: 70px;
+    width: 190px;
+    font-size:15px;
+    margin-left: 35px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px;
+}
+.color-box3 p{
+   padding: 17px;
+    color: white;
+}
+.color-box3 img{
+    color: white;
+}
